@@ -10,6 +10,6 @@ The experiments are targeted to be implemented in Intel MAX10 FPGA. We will use 
 
 The projects are organised in the following structure
 - project_name
-  - src
-  - par
-  - doc
+  - src - contains VHDL source code
+  - par - Place & Route folder. This folder contains all the Quartus tool generated files. 
+  - doc - documents and project setting files
