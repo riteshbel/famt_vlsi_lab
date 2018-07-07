@@ -1,4 +1,4 @@
-# Introduction: github repository for maintaining FAMT's VLSI Lab experiments
+# github repository for maintaining FAMT's VLSI Lab experiments
 
 This github repository contains the following FPGA based lab experiments
 - Hashing algorithm implementation
