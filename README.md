@@ -9,7 +9,7 @@ The experiments are targeted to be implemented in Intel MAX10 FPGA. We will use 
 (https://www.altera.com/products/boards_and_kits/dev-kits/altera/max-10-fpga-development-kit.html)
 
 The projects are organised in the following structure
-- <project_name>
-  - <src>
-  - <par>
-  - <doc>
+- project_name
+  - src
+  - par
+  - doc
