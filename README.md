@@ -13,3 +13,6 @@ The projects are organised in the following structure
   - src - contains VHDL source code
   - par - Place & Route folder. This folder contains all the Quartus tool generated files. 
   - doc - documents and project setting files
+
+  
+_Lab experiments are created for Finolex Academy of Management & Technology (www.famt.ac.in)_
