@@ -5,14 +5,14 @@ This github repository contains the following FPGA based lab experiments
 - Sorting algorithm implementation
 - SPI sensor integration to FPGA
 
-The experiments are targeted to be implemented in Intel MAX10 FPGA. We will use Intel's MAX10 FPGA development kit
-(https://www.altera.com/products/boards_and_kits/dev-kits/altera/max-10-fpga-development-kit.html)
+The experiments are targeted to be implemented in Intel MAX10 FPGA. 
 
 The projects are organised in the following structure
 - project_name
   - src - contains HDL - Verilog/VHDL source code
   - par - Place & Route folder. This folder contains all the Quartus tool generated files. 
-  - doc - documents and project setting files
+  - doc - documents and project requirement files
+  - sim - testbench & simulation output files
 
   
 _Lab experiments are created for Finolex Academy of Management & Technology (www.famt.ac.in)_
