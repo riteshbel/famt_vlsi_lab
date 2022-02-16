@@ -1,11 +1,11 @@
 # github repository for maintaining FAMT's VLSI Lab experiments
 
 This github repository contains the following FPGA based lab experiments
-- Hashing algorithm implementation
 - Sorting algorithm implementation
+- Hashing algorithm implementation
 - SPI sensor integration to FPGA
 
-The experiments are targeted to be implemented in Intel MAX10 FPGA. 
+The experiments are targeted to be implemented using Intel MAX10 FPGA. 
 
 The projects are organised in the following structure
 - project_name
